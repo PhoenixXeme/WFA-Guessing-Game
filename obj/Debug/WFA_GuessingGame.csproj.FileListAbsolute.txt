@@ -1,0 +1,11 @@
+C:\C# Projects\WFA_GuessingGame\WFA_GuessingGame\bin\Debug\WFA_GuessingGame.exe.config
+C:\C# Projects\WFA_GuessingGame\WFA_GuessingGame\bin\Debug\WFA_GuessingGame.exe
+C:\C# Projects\WFA_GuessingGame\WFA_GuessingGame\bin\Debug\WFA_GuessingGame.pdb
+C:\C# Projects\WFA_GuessingGame\WFA_GuessingGame\obj\Debug\WFA_GuessingGame.csproj.AssemblyReference.cache
+C:\C# Projects\WFA_GuessingGame\WFA_GuessingGame\obj\Debug\WFA_GuessingGame.csproj.SuggestedBindingRedirects.cache
+C:\C# Projects\WFA_GuessingGame\WFA_GuessingGame\obj\Debug\WFA_GuessingGame.Form1.resources
+C:\C# Projects\WFA_GuessingGame\WFA_GuessingGame\obj\Debug\WFA_GuessingGame.Properties.Resources.resources
+C:\C# Projects\WFA_GuessingGame\WFA_GuessingGame\obj\Debug\WFA_GuessingGame.csproj.GenerateResource.cache
+C:\C# Projects\WFA_GuessingGame\WFA_GuessingGame\obj\Debug\WFA_GuessingGame.csproj.CoreCompileInputs.cache
+C:\C# Projects\WFA_GuessingGame\WFA_GuessingGame\obj\Debug\WFA_GuessingGame.exe
+C:\C# Projects\WFA_GuessingGame\WFA_GuessingGame\obj\Debug\WFA_GuessingGame.pdb
